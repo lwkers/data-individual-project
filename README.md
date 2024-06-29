@@ -4,7 +4,7 @@ This project demonstrates the creation of a star schema data warehouse to track 
 
 ## Data Source
 
-The data includes columns for DateTime, VideoTitle, and events. We will filter the data to include only rows where the event contains "206", indicating a video start.
+The data includes columns for DateTime, VideoTitle, and events. I will filter the data to include only rows where the event contains "206", indicating a video start.
 
 ## Star Schema Design
 
